@@ -6,12 +6,12 @@
 I’m a software engineer living and working in East London. I currently work at [Red Badger](https://red-badger.com/), helping to build digital products and services. Prior to that I led the front-end team at [Browser London](https://www.browserlondon.com/) where I built enterprise web-apps.
 
 <dl>
-  <dt>Currently learning</dt>
-  <dd><a href="https://www.rust-lang.org/">Rust</a> & <a href="https://golang.org">Go</a></dd>
+  <dt>Currently reading</dt>
+  <dd><a href="https://www.amazon.co.uk/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215">The blue book</a></dd>
   <dt>Recently discovered</dt>
-  <dd><a href="https://en.wikipedia.org/wiki/Artificial_Intelligence_(compilation_album)">Artificial Intelligence</a></dd>
+  <dd><a href="https://haircutsformen.bandcamp.com/">haircuts for men</a></dd>
   <dt>Enjoying responsibly</dt>
-  <dd><a href="https://workshopcoffee.com/">Workshop</a> coffee brewed with the <a href="https://www.hario.co.uk/products/hario-v60-immersion-dripper-set">Hario Switch</a></dd>
+  <dd><a href="https://workshopcoffee.com/">Workshop</a> coffee brewed with a v60</a></dd>
 </dl>
 
 ## A few things I've written ✍️
