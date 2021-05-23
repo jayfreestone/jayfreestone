@@ -7,11 +7,11 @@ I’m a software engineer living and working in East London. I currently work at
 
 <dl>
   <dt>Currently reading</dt>
-  <dd><a href="https://www.amazon.co.uk/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215">The blue book</a></dd>
+  <dd><a href="https://www.amazon.co.uk/Philosophy-Software-Design-John-Ousterhout/dp/1732102201">A Philosophy of Software Design</a></dd>
   <dt>Recently discovered</dt>
-  <dd><a href="https://haircutsformen.bandcamp.com/">haircuts for men</a></dd>
+  <dd><a href="https://en.wikipedia.org/wiki/Alcachofa_(album)">Alcachofa</a></dd>
   <dt>Enjoying responsibly</dt>
-  <dd><a href="https://workshopcoffee.com/">Workshop</a> coffee brewed with a v60</a></dd>
+  <dd><a href="https://workshopcoffee.com/">Workshop</a> coffee brewed with a Clever Dripper</a></dd>
 </dl>
 
 ## A few things I've written ✍️
