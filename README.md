@@ -10,8 +10,8 @@ I’m a software engineer living and working in East London. I currently work at
   <dd><a href="https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/">Programming Rust: Fast, Safe Systems Development</a></dd>
   <dt>Recently discovered</dt>
   <dd><a href="https://deathsdynamicshroud.bandcamp.com/album/ill-try-living-like-this">I'll Try Living Like This</a></dd>
-  <dt>Enjoying responsibly</dt>
-  <dd><a href="https://www.hersheyland.com/products/reeses-ultimate-peanut-butter-lovers-peanut-butter-cups-1-4-oz.html">REESE'S Ultimate Peanut Butter Lovers Peanut Butter Cups</a></dd>
+  <dt>Now Playing</dt>
+  <dd>Castlevania: Bloodlines on a <a href="https://www.analogue.co/mega-sg">Mega SG</a></dd>
 </dl>
 
 ## A few things I've written ✍️
