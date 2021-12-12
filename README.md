@@ -7,11 +7,11 @@ I’m a software engineer living and working in East London. I currently work at
 
 <dl>
   <dt>Currently reading</dt>
-  <dd><a href="http://xunitpatterns.com/">XUnit Test Patterns</a></dd>
+  <dd><a href="https://mitpress.mit.edu/books/problem-software">The Problem with Software</a></dd>
   <dt>Recently discovered</dt>
   <dd><a href="https://deathsdynamicshroud.bandcamp.com/album/ill-try-living-like-this">I'll Try Living Like This</a></dd>
-  <dt>Now (Re)playing</dt>
-  <dd>Metroid II: Return of Samus on a <a href="https://www.analogue.co/super-nt">Super Nt</a>, using a <a href="https://krikzz.com/store/home/54-fxpak-pro.html">FXPAK Pro</a></dd>
+  <dt>Now playing</dt>
+  <dd>Deathloop</dd>
 </dl>
 
 ## A few things I've written ✍️
