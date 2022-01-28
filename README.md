@@ -7,15 +7,16 @@ I’m a software engineer living and working in East London. I currently work at
 
 <dl>
   <dt>Currently reading</dt>
-  <dd><a href="https://mitpress.mit.edu/books/problem-software">The Problem with Software</a></dd>
+  <dd><a href="https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/">Designing Data-Intensive Applications</a></dd>
   <dt>Recently discovered</dt>
-  <dd><a href="https://deathsdynamicshroud.bandcamp.com/album/ill-try-living-like-this">I'll Try Living Like This</a></dd>
-  <dt>Now playing</dt>
-  <dd>Deathloop</dd>
+  <dd><a href="https://warprecords.bandcamp.com/album/stay-down">Stay Down | Two Lone Swordsmen</a></dd>
+  <dt>Now (re)playing</dt>
+  <dd>Super Metroid</dd>
 </dl>
 
 ## A few things I've written ✍️
 
+- [Frontend Predictions (2022)](https://www.jayfreestone.com/writing/frontend-predictions-2022/)
 - [Bulletproof flag components](https://www.jayfreestone.com/writing/bulletproof-flag/)
 - [The jest.mock() escape hatch](https://www.jayfreestone.com/writing/jest-module-mocks/)
 - [The issues with JAMStack: You might need a backend](https://www.browserlondon.com/blog/2020/04/20/issues-with-jamstack-you-might-need-backend/)
