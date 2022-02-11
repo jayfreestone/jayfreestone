@@ -10,8 +10,8 @@ I’m a software engineer living and working in East London. I currently work at
   <dd><a href="https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/">Designing Data-Intensive Applications</a></dd>
   <dt>Recently discovered</dt>
   <dd><a href="https://warprecords.bandcamp.com/album/stay-down">Stay Down | Two Lone Swordsmen</a></dd>
-  <dt>Now (re)playing</dt>
-  <dd>Super Metroid</dd>
+  <dt>Now playing</dt>
+  <dd>Horizon: Zero Dawn</dd>
 </dl>
 
 ## A few things I've written ✍️
