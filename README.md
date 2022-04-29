@@ -11,7 +11,7 @@ I’m a software engineer living and working in East London. I currently work at
   <dt>Recently discovered</dt>
   <dd><a href="https://warprecords.bandcamp.com/album/stay-down">Stay Down | Two Lone Swordsmen</a></dd>
   <dt>Now playing</dt>
-  <dd>Horizon: Zero Dawn</dd>
+  <dd>Elden Ring</dd>
 </dl>
 
 ## A few things I've written ✍️
