@@ -6,13 +6,15 @@
 I’m a software engineer living and working in East London. I currently work at [Red Badger](https://red-badger.com/), helping to build digital products and services. Prior to that I led the front-end team at [Browser London](https://www.browserlondon.com/) where I built enterprise web-apps.
 
 <dl>
-  <dt>Currently reading</dt>
+  <dt>Currently re-reading</dt>
   <dd><a href="https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/">Designing Data-Intensive Applications</a></dd>
   <dt>Recently discovered</dt>
-  <dd><a href="https://warprecords.bandcamp.com/album/stay-down">Stay Down | Two Lone Swordsmen</a></dd>
+  <dd>Sakura | Susumu Yokota</dd>
   <dt>Now playing</dt>
-  <dd>Elden Ring</dd>
+  <dd>Persona 5: Strikers</dd>
 </dl>
+
+You can find me on Mastodon here: [@jfree@jayfreestone.com](https://fedi.jayfreestone.com/@jfree)
 
 ## A few things I've written ✍️
 
