@@ -7,7 +7,7 @@ I’m a software engineer living and working in East London. I currently work at
 
 <dl>
   <dt>Currently reading</dt>
-  <dd><Understanding Media: The Extensions of Man</dd>
+  <dd>Understanding Media: The Extensions of Man</dd>
   <dt>Recently discovered</dt>
   <dd>Sakura | Susumu Yokota</dd>
   <dt>Now playing</dt>
