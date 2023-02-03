@@ -11,7 +11,7 @@ I’m a software engineer living and working in East London. I currently work at
   <dt>Recently discovered</dt>
   <dd>Sakura | Susumu Yokota</dd>
   <dt>Now playing</dt>
-  <dd>Cyberpunk: 2077</dd>
+  <dd>Cyberpunk: 2077 and Dead Space (2023)</dd>
 </dl>
 
 You can find me on Mastodon here: [@jfree@jayfreestone.com](https://fedi.jayfreestone.com/@jfree)
