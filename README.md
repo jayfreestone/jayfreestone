@@ -7,11 +7,11 @@ I’m a software engineer living and working in East London. I currently work at
 
 <dl>
   <dt>Currently reading</dt>
-  <dd>Understanding Media: The Extensions of Man</dd>
+  <dd>The DynamoDB Book</dd>
   <dt>Recently discovered</dt>
-  <dd>Sakura | Susumu Yokota</dd>
+  <dd>Fantasy | Romare</dd>
   <dt>Now playing</dt>
-  <dd>Cyberpunk: 2077 and Dead Space (2023)</dd>
+  <dd>Metroid Dread</dd>
 </dl>
 
 You can find me on Mastodon here: [@jfree@jayfreestone.com](https://fedi.jayfreestone.com/@jfree)
