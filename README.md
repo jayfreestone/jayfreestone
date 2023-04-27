@@ -9,9 +9,9 @@ I’m a software engineer living and working in East London. I currently work at
   <dt>Currently reading</dt>
   <dd>The DynamoDB Book</dd>
   <dt>Recently discovered</dt>
-  <dd>Fantasy | Romare</dd>
+  <dd>Only Love From Now On | Carmen Villain</dd>
   <dt>Now playing</dt>
-  <dd>Metroid Dread</dd>
+  <dd>Resident Evil 4 (2023) on repeat</dd>
 </dl>
 
 You can find me on Mastodon here: [@jfree@jayfreestone.com](https://fedi.jayfreestone.com/@jfree)
