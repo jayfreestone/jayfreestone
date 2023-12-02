@@ -3,7 +3,7 @@
 
 # Hello there
 
-I’m a software engineer living and working in East London. I currently work at [Daphne]((https://www.daphnetech.io/). Prior to that I worked at [Red Badger](https://red-badger.com/), where I built digital products and services for blue chips.
+I’m a software engineer living and working in East London. I currently work at [Daphne](https://www.daphnetech.io/). Prior to that I worked at [Red Badger](https://red-badger.com/), where I built digital products and services for blue chips.
 
 <dl>
   <dt>Currently reading</dt>
