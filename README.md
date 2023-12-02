@@ -3,15 +3,15 @@
 
 # Hello there
 
-I’m a software engineer living and working in East London. I currently work at [Red Badger](https://red-badger.com/), helping to build digital products and services. Prior to that I led the front-end team at [Browser London](https://www.browserlondon.com/) where I built enterprise web-apps.
+I’m a software engineer living and working in East London. I currently work at [Daphne]((https://www.daphnetech.io/). Prior to that I worked at [Red Badger](https://red-badger.com/), where I built digital products and services for blue chips.
 
 <dl>
   <dt>Currently reading</dt>
   <dd>The DynamoDB Book</dd>
-  <dt>Recently discovered</dt>
-  <dd>Only Love From Now On | Carmen Villain</dd>
+  <dt>Just watched</dt>
+  <dd>High and Low</dd>
   <dt>Now playing</dt>
-  <dd>Resident Evil 4 (2023) on repeat</dd>
+  <dd>Hi-Fi Rush</dd>
 </dl>
 
 You can find me on Mastodon here: [@jfree@jayfreestone.com](https://fedi.jayfreestone.com/@jfree)
