@@ -7,11 +7,11 @@ I’m a software engineer living and working in East London. I currently work at
 
 <dl>
   <dt>Currently reading</dt>
-  <dd>The DynamoDB Book</dd>
+  <dd>Release It!: Design and Deploy Production-Ready Software</dd>
   <dt>Just watched</dt>
-  <dd>High and Low</dd>
+  <dd>Poor Things</dd>
   <dt>Now playing</dt>
-  <dd>Hi-Fi Rush</dd>
+  <dd>Persona 3 Reload</dd>
 </dl>
 
 You can find me on Mastodon here: [@jfree@jayfreestone.com](https://fedi.jayfreestone.com/@jfree)
