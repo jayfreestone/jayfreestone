@@ -7,11 +7,11 @@ I’m a software engineer living and working in East London. I currently work at
 
 <dl>
   <dt>Currently reading</dt>
-  <dd>Release It!: Design and Deploy Production-Ready Software</dd>
+  <dd>The Overstory</dd>
   <dt>Just watched</dt>
-  <dd>Poor Things</dd>
+  <dd>Perfect Days</dd>
   <dt>Now playing</dt>
-  <dd>Persona 3 Reload</dd>
+  <dd>Silent Hill 2</dd>
 </dl>
 
 You can find me on Mastodon here: [@jfree@jayfreestone.com](https://fedi.jayfreestone.com/@jfree)
