@@ -9,12 +9,12 @@ I’m a software engineer living and working in East London. I currently work at
   <dt>Currently reading</dt>
   <dd>The Overstory</dd>
   <dt>Just watched</dt>
-  <dd>Perfect Days</dd>
+  <dd>Beetlejuice</dd>
   <dt>Now playing</dt>
-  <dd>Silent Hill 2</dd>
+  <dd>UFO 50</dd>
 </dl>
 
-You can find me on Mastodon here: [@jfree@jayfreestone.com](https://fedi.jayfreestone.com/@jfree)
+You can find me on Bluesky here: [@jayfreestone.com](https://bsky.app/profile/jayfreestone.com)
 
 ## A few things I've written ✍️
 
