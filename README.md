@@ -7,11 +7,11 @@ I’m a software engineer living and working in East London. I currently work at
 
 <dl>
   <dt>Currently reading</dt>
-  <dd>The Overstory</dd>
+  <dd>The Emperor of Gladness</dd>
   <dt>Just watched</dt>
-  <dd>Beetlejuice</dd>
+  <dd>Cloud (クラウド, Kuraudo)</dd>
   <dt>Now playing</dt>
-  <dd>UFO 50</dd>
+  <dd>Death Stranding 2: On the Beach</dd>
 </dl>
 
 You can find me on Bluesky here: [@jayfreestone.com](https://bsky.app/profile/jayfreestone.com)
