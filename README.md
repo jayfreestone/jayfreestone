@@ -3,15 +3,17 @@
 
 # Hello there
 
-I’m a software engineer living and working in East London. I currently work at [Daphne](https://www.daphnetech.io/). Prior to that I worked at [Red Badger](https://red-badger.com/), where I built digital products and services for blue chips.
+I’m a software engineer based in East London, currently working at [Omnea](https://www.omnea.co/).
+
+Prior to that I worked at [Daphne](https://www.getdaphne.com/), where I helped build a one-stop-shop for the digitisation of alternative assets, and [Red Badger](https://red-badger.com/), where I built digital products and services for blue chips like Nando's.
 
 <dl>
-  <dt>Currently reading</dt>
-  <dd>The Emperor of Gladness</dd>
+  <dt>Currently enjoying</dt>
+  <dd>LUX | Rosalía</dd>
   <dt>Just watched</dt>
   <dd>Cloud (クラウド, Kuraudo)</dd>
   <dt>Now playing</dt>
-  <dd>Death Stranding 2: On the Beach</dd>
+  <dd>Battlefield 6</dd>
 </dl>
 
 You can find me on Bluesky here: [@jayfreestone.com](https://bsky.app/profile/jayfreestone.com)
