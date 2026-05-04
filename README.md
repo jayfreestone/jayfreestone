@@ -9,11 +9,11 @@ Prior to that I worked at [Daphne](https://www.getdaphne.com/), where I helped b
 
 <dl>
   <dt>Currently enjoying</dt>
-  <dd>LUX | Rosalía</dd>
+  <dd>In a Space Outta Sound | Nightmares on Wax</dd>
   <dt>Just watched</dt>
-  <dd>Cloud (クラウド, Kuraudo)</dd>
+  <dd>BEEF (S02)</dd>
   <dt>Now playing</dt>
-  <dd>Battlefield 6</dd>
+  <dd>Saros</dd>
 </dl>
 
 You can find me on Bluesky here: [@jayfreestone.com](https://bsky.app/profile/jayfreestone.com)
