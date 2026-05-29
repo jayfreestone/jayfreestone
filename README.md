@@ -9,9 +9,9 @@ Prior to that I worked at [Daphne](https://www.getdaphne.com/), where I helped b
 
 <dl>
   <dt>Currently enjoying</dt>
-  <dd>In a Space Outta Sound | Nightmares on Wax</dd>
+  <dd>Inferno | Boards of Canada</dd>
   <dt>Just watched</dt>
-  <dd>BEEF (S02)</dd>
+  <dd>Mother Mary</dd>
   <dt>Now playing</dt>
   <dd>Saros</dd>
 </dl>
@@ -20,7 +20,8 @@ You can find me on Bluesky here: [@jayfreestone.com](https://bsky.app/profile/ja
 
 ## A few things I've written ✍️
 
-- [Frontend Predictions (2022)](https://www.jayfreestone.com/writing/frontend-predictions-2022/)
+- [You might not need… the repository pattern](https://www.jayfreestone.com/writing/you-might-not-need-the-repository-pattern/)
+- [Intentionally blocking rendering with JavaScript](https://www.jayfreestone.com/writing/intentional-render-blocking-javascript/)
 - [Bulletproof flag components](https://www.jayfreestone.com/writing/bulletproof-flag/)
 - [The jest.mock() escape hatch](https://www.jayfreestone.com/writing/jest-module-mocks/)
 - [The issues with JAMStack: You might need a backend](https://www.browserlondon.com/blog/2020/04/20/issues-with-jamstack-you-might-need-backend/)
