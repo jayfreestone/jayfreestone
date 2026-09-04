@@ -9,11 +9,11 @@ Prior to that I worked at [Daphne](https://www.getdaphne.com/), where I helped b
 
 <dl>
   <dt>Currently enjoying</dt>
-  <dd>Inferno | Boards of Canada</dd>
+  <dd>Lost Weekend | Phoebe Bridgers</dd>
   <dt>Just watched</dt>
-  <dd>Mother Mary</dd>
+  <dd>Backrooms</dd>
   <dt>Now playing</dt>
-  <dd>Saros</dd>
+  <dd>Metroid Prime 4</dd>
 </dl>
 
 You can find me on Bluesky here: [@jayfreestone.com](https://bsky.app/profile/jayfreestone.com)
